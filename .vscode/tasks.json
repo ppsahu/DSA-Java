@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac Combination_Sum_LC_40.java && java Combination_Sum_LC_40 < input.txt > output.txt",
+            "command": "javac SubsetSum.java && java SubsetSum < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
