@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac QuickSort.java && java QuickSort < input.txt > output.txt",
+            "command": "javac CombinationSum_LC39.java && java CombinationSum_LC39 < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
