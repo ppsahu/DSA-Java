@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac SubsetSum.java && java SubsetSum < input.txt > output.txt",
+            "command": "javac SubsetSum_2_LC_90.java && java SubsetSum_2_LC_90 < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
