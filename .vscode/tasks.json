@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac Permutations_LC_46.java && java Permutations_LC_46 < input.txt > output.txt",
+            "command": "javac N_Queens_LC_51.java && java N_Queens_LC_51 < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
