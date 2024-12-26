@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac N_Queens_LC_51.java && java N_Queens_LC_51 < input.txt > output.txt",
+            "command": "javac Sudoku_Solver_LC_37.java && java Sudoku_Solver_LC_37 < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
