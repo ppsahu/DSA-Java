@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Sudoku_Solver_LC_37{
+public class 18_Sudoku_Solver_LC_37{
     public static void main(String[] args){
         char[][] board= {
             {'9', '5', '7', '.', '1', '3', '.', '8', '4'},
