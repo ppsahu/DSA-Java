@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac M_Coloring.java && java M_Coloring < input.txt > output.txt",
+            "command": "javac Palindrom_Partitioning.java && java Palindrom_Partitioning < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
